@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Webapi.Controllers.DonationController",
+    "Method": "PostDonation",
+    "RelativePath": "api/Donation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "donation",
+        "Type": "DAL.DTO.DonationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DAL.DTO.DonationDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

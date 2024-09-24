@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ED508-DAE1-4CC0-A086-8BB61D4C533D}|Webapi\\Webapi.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\webapi\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8ED508-DAE1-4CC0-A086-8BB61D4C533D}|Webapi\\Webapi.csproj|solutionrelative:webapi\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65E493C-9460-4412-BD64-A0CAFD3AC055}|DAL\\DAL.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\dal\\services\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65E493C-9460-4412-BD64-A0CAFD3AC055}|DAL\\DAL.csproj|solutionrelative:dal\\services\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65E493C-9460-4412-BD64-A0CAFD3AC055}|DAL\\DAL.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\dal\\interface\\idonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65E493C-9460-4412-BD64-A0CAFD3AC055}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\idonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65E493C-9460-4412-BD64-A0CAFD3AC055}|DAL\\DAL.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\dal\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65E493C-9460-4412-BD64-A0CAFD3AC055}|DAL\\DAL.csproj|solutionrelative:dal\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E467A8-1B13-4CFE-A194-04DB21A38EF9}|Models\\Models.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\models\\model\\sendemailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E467A8-1B13-4CFE-A194-04DB21A38EF9}|Models\\Models.csproj|solutionrelative:models\\model\\sendemailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65E493C-9460-4412-BD64-A0CAFD3AC055}|DAL\\DAL.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\dal\\interface\\isendemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65E493C-9460-4412-BD64-A0CAFD3AC055}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\isendemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ED508-DAE1-4CC0-A086-8BB61D4C533D}|Webapi\\Webapi.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8ED508-DAE1-4CC0-A086-8BB61D4C533D}|Webapi\\Webapi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E467A8-1B13-4CFE-A194-04DB21A38EF9}|Models\\Models.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\models\\model\\donationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E467A8-1B13-4CFE-A194-04DB21A38EF9}|Models\\Models.csproj|solutionrelative:models\\model\\donationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E467A8-1B13-4CFE-A194-04DB21A38EF9}|Models\\Models.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\models\\model\\projectcotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E467A8-1B13-4CFE-A194-04DB21A38EF9}|Models\\Models.csproj|solutionrelative:models\\model\\projectcotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ED508-DAE1-4CC0-A086-8BB61D4C533D}|Webapi\\Webapi.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB8ED508-DAE1-4CC0-A086-8BB61D4C533D}|Webapi\\Webapi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240801083547_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ED508-DAE1-4CC0-A086-8BB61D4C533D}|Webapi\\Webapi.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB8ED508-DAE1-4CC0-A086-8BB61D4C533D}|Webapi\\Webapi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E467A8-1B13-4CFE-A194-04DB21A38EF9}|Models\\Models.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\backend\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{63E467A8-1B13-4CFE-A194-04DB21A38EF9}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E8\u05D7\u05DC\u05D9\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\11 Linq to object\\HW_Linq\\HW_Linq\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240730234419_RevertChanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240730194858_RevertChanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240730181406_newmigraion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISendEmailService.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\DAL\\Interface\\ISendEmailService.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\ISendEmailService.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\DAL\\Interface\\ISendEmailService.cs",
+              "RelativeToolTip": "DAL\\Interface\\ISendEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:23:45.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\DAL\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\EmailService.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\DAL\\Services\\EmailService.cs",
+              "RelativeToolTip": "DAL\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:28:16.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonationService.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\DAL\\Services\\DonationService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\DonationService.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\DAL\\Services\\DonationService.cs",
+              "RelativeToolTip": "DAL\\Services\\DonationService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:43:42.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendEmailModel.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Models\\Model\\SendEmailModel.cs",
+              "RelativeDocumentMoniker": "Models\\Model\\SendEmailModel.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Models\\Model\\SendEmailModel.cs",
+              "RelativeToolTip": "Models\\Model\\SendEmailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:36:32.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonationController.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Webapi\\Controllers\\DonationController.cs",
+              "RelativeDocumentMoniker": "Webapi\\Controllers\\DonationController.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Webapi\\Controllers\\DonationController.cs",
+              "RelativeToolTip": "Webapi\\Controllers\\DonationController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:42:00.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDonation.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\DAL\\Interface\\IDonation.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IDonation.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\DAL\\Interface\\IDonation.cs",
+              "RelativeToolTip": "DAL\\Interface\\IDonation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:06:45.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DonationDetail.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Models\\Model\\DonationDetail.cs",
+              "RelativeDocumentMoniker": "Models\\Model\\DonationDetail.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Models\\Model\\DonationDetail.cs",
+              "RelativeToolTip": "Models\\Model\\DonationDetail.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:02:22.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectCotext.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Models\\Model\\ProjectCotext.cs",
+              "RelativeDocumentMoniker": "Models\\Model\\ProjectCotext.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Models\\Model\\ProjectCotext.cs",
+              "RelativeToolTip": "Models\\Model\\ProjectCotext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:13:46.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Webapi\\Program.cs",
+              "RelativeDocumentMoniker": "Webapi\\Program.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Webapi\\Program.cs",
+              "RelativeToolTip": "Webapi\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:33:04.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Webapi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Webapi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Webapi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Webapi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T22:11:50.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240801083547_Create.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240801083547_Create.cs",
+              "RelativeDocumentMoniker": "..\\..\\project to mega tech\\Models\\Migrations\\20240801083547_Create.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240801083547_Create.cs",
+              "RelativeToolTip": "..\\..\\project to mega tech\\Models\\Migrations\\20240801083547_Create.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:35:47.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E8\u05D7\u05DC\u05D9\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\11 Linq to object\\HW_Linq\\HW_Linq\\Program.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E8\u05D7\u05DC\u05D9\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\11 Linq to object\\HW_Linq\\HW_Linq\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:54:49.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T20:06:40.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Webapi.csproj",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Webapi\\Webapi.csproj",
+              "RelativeDocumentMoniker": "Webapi\\Webapi.csproj",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\\u05DE\u05E9\u05D9\u05DE\u05EA \u05DE\u05D1\u05D7\u05DF \u05DE\u05E9\u05E8\u05D3 \u05D4\u05DE\u05E9\u05E4\u05D8\u05D9\u05DD\\BackEnd\\Webapi\\Webapi.csproj",
+              "RelativeToolTip": "Webapi\\Webapi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T20:06:40.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240730234419_RevertChanges.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240730234419_RevertChanges.cs",
+              "RelativeDocumentMoniker": "..\\..\\project to mega tech\\Models\\Migrations\\20240730234419_RevertChanges.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240730234419_RevertChanges.cs",
+              "RelativeToolTip": "..\\..\\project to mega tech\\Models\\Migrations\\20240730234419_RevertChanges.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:44:19.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240730194858_RevertChanges.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240730194858_RevertChanges.cs",
+              "RelativeDocumentMoniker": "..\\..\\project to mega tech\\Models\\Migrations\\20240730194858_RevertChanges.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240730194858_RevertChanges.cs",
+              "RelativeToolTip": "..\\..\\project to mega tech\\Models\\Migrations\\20240730194858_RevertChanges.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:48:59.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240730181406_newmigraion.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240730181406_newmigraion.cs",
+              "RelativeDocumentMoniker": "..\\..\\project to mega tech\\Models\\Migrations\\20240730181406_newmigraion.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D3\\project to mega tech\\Models\\Migrations\\20240730181406_newmigraion.cs",
+              "RelativeToolTip": "..\\..\\project to mega tech\\Models\\Migrations\\20240730181406_newmigraion.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:14:06.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
